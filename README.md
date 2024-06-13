@@ -5,9 +5,7 @@ On35 | Semana 2 | 2024 | Agnes Ignácio
 ![enter image description here](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDhzdjVmdnNwdzZ3b2FmZ3VpZjRxbzdtamJzbjJnc3g4eDBxcDg0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kQvyCMS08izkI/giphy.webp)
 
 ### Instruções
-Antes de começar, vamos organizar nosso setup.
-* Fork esse repositório 
-* Clone o fork na sua máquina (Para isso basta abrir o seu terminal e digitar `git clone url-do-seu-repositorio-forkado`)
+
 * Entre na pasta do seu repositório (Para isso basta abrir o seu terminal e digitar `cd nome-do-seu-repositorio-forkado`)
 
 ### Resumo
